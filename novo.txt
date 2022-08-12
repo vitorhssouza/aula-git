@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-vcfdgafdte
-=======
 novonovnovnovnovnovnovnvonvov
->>>>>>> 74c7c2908a4ace44dc097d67a6a5fcba0978385a
+vcfdgafdte
+
